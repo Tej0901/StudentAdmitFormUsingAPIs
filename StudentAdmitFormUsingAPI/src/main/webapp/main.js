@@ -1,5 +1,5 @@
 var selectedDataRow = null
-
+// main function
 function onFormSubmit() 
 {
     if (validate()) {
